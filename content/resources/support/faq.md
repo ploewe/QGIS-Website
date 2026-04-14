@@ -182,7 +182,8 @@ Example BibTeX entry:
   author = {{QGIS Development Team}},
   organization = {QGIS Association},
   year = {{{< yeartag >}}},
-  url = {https://www.qgis.org},
+  doi = {10.5281/zenodo.6139224},
+  url = {https://www.qgis.org}
 }
 ```
 
